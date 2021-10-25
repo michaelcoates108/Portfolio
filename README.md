@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michaelcoates108
+- 👋 Hi, I’m Michael Coates
 - 👀 I’m interested in ... finishing my IT degree
 - 🌱 I’m currently learning ... how to use GitHub
 - 💞️ I’m looking to collaborate on ... just about anything
