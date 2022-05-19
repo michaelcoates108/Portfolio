@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on ... just about anything
 - 📫 How to reach me ... michaelcoates108@gmail.com
 
-- Checkout my portfolio at https://michaelcoates108.github.io/michaelcoates108/
+- Checkout my portfolio at https://michaelcoates108.github.io/Portfolio/
